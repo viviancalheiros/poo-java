@@ -6,3 +6,4 @@ Repositório dedicado à disciplina de Programação 2
 ## 🛠️ Exercícios e projetos (pastas)
 - Estoque (29/07/2025)
 - Taxes (15/08/2025)
+- Hotel (21/08/2025)
