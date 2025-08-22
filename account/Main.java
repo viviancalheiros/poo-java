@@ -44,5 +44,7 @@ public class Main {
                 System.out.println("Invalid option.");
             }
         } while (option != 0);
+
+        scanner.close();
     }
 }
